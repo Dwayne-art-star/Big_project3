@@ -1,0 +1,45 @@
+div {
+   font-family: Helvetica;
+   background-color: #272D33;
+   color: white;
+   font-size: 32px;
+   padding: 5px;
+}
+
+nav {
+   background-color: #272D33;
+   padding: 5px;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+p{
+    color: white;
+}
+
+img {
+   width: 60px;
+}
+
+.items:hover {
+   background-color: gray;
+   opacity: 0.5;
+}
+
+a {
+   width: 20%;
+   text-align: center;
+   text-decoration: none;
+}
+
+#Info{
+    width: 700px;
+    height: 700px;
+}
+
+.NAH{
+    display: flex;
+    flex-direction: row-reverse;
+    position: fixed;
+}
+
