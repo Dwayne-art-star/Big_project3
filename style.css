@@ -37,9 +37,19 @@ a {
     height: 700px;
 }
 
-.NAH{
+h1{
     display: flex;
-    flex-direction: row-reverse;
-    position: fixed;
+    justify-content: center;
 }
 
+p{
+    color: black;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#Hello{
+    color: white;
+}
